@@ -13,19 +13,19 @@
 -CSS
 
 ## Inicio de sesión 
-![Screenshot](c1.PNG)
+
+<img src="c1.PNG" alt="c1" width="800"/>
 
 ## Registro 
-![ScreenShot](c2.PNG)
 
 <img src="c2.PNG" alt="c2" width="800"/>
 
 ## Inicio 
-![ScreenShot](c3.PNG)
 
+<img src="c3.PNG" alt="c3" width="800"/>
 ## Perfil 
-![ScreenShot](c4.PNG)
 
+<img src="c4.PNG" alt="c4" width="800"/>
 
 
 # Instalar dependencias
