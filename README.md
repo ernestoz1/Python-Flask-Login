@@ -2,9 +2,14 @@
 
 #
 **Tecnologias utilizadas** 
+
+
 -Python 3.8.5
+
 -Flask 1.1.2
+
 -Mysql
+
 -CSS
 
 ## Inicio de sesión 
@@ -18,5 +23,13 @@
 
 ## Perfil 
 ![ScreenShot](c4.PNG)
+
+
+
+# Instalar dependencias
+```
+- pip install -r requirements.txt
+
+```
 
 
