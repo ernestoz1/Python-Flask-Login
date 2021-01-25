@@ -23,6 +23,7 @@
 ## Inicio 
 
 <img src="c3.PNG" alt="c3" width="800"/>
+
 ## Perfil 
 
 <img src="c4.PNG" alt="c4" width="800"/>
