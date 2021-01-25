@@ -16,7 +16,7 @@
 ![Screenshot](c1.PNG)
 
 ## Registro 
-![ScreenShot](c2.PNG)
+![ScreenShot](c2.PNGs=200)
 
 ## Inicio 
 ![ScreenShot](c3.PNG)
