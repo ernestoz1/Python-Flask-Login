@@ -16,7 +16,9 @@
 ![Screenshot](c1.PNG)
 
 ## Registro 
-![ScreenShot](c2.PNG =250x )
+![ScreenShot](c2.PNG)
+
+<img src="c2.PNG" alt="c2" width="200"/>
 
 ## Inicio 
 ![ScreenShot](c3.PNG)
