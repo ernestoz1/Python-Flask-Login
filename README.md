@@ -18,7 +18,7 @@
 ## Registro 
 ![ScreenShot](c2.PNG)
 
-<img src="c2.PNG" alt="c2" width="400"/>
+<img src="c2.PNG" alt="c2" width="800"/>
 
 ## Inicio 
 ![ScreenShot](c3.PNG)
