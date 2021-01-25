@@ -8,7 +8,7 @@
 
 -Flask 1.1.2
 
--Mysql
+-MySQL
 
 -CSS
 
