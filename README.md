@@ -16,7 +16,7 @@
 ![Screenshot](c1.PNG)
 
 ## Registro 
-![ScreenShot](c2.PNG =200x150)
+![ScreenShot](c2.PNG | width=100)
 
 ## Inicio 
 ![ScreenShot](c3.PNG)
