@@ -1,6 +1,6 @@
 # Python-Flask-Login
 
-Ejemplo basico usando FLask con conexión a base de datos 
+Ejemplo basico usando FLask con conexión a Base de Datos 
 
 #
 **Tecnologias utilizadas** 
